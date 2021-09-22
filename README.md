@@ -1,0 +1,1 @@
+The project is a RFID tag based lock system for any purpose. The tags could be a token or a card which comes with a unique id. The system is based on Arduino and RFI tag reader EM18.
